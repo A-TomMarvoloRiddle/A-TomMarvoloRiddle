@@ -8,17 +8,17 @@
 ### **💡 About Me**  
 I am a **passionate problem solver** specializing in **AI, Machine Learning, and Computer Vision**. From **AI-powered traffic management systems** to **cutting-edge research in AI**, I focus on building impactful solutions.
 
-- 🔬 **Published Research:** Educational Aspects of AI – *IJARIIE Journal*  
-- 🏆 **SIH 2024 Grand Finale Runner-Up:** Led a team to develop an **AI-based traffic management system**  
-- 🎙 **Conference Speaker:** IGEN Energathon, Aishwarya College  
-- 🚀 **MUN Leadership:** Director General - **Civitas Model UN 2024**, Organizing Committee Head - **JIET MUN 2023**, Under Secretary General - **LRIMUN Jodhpur 2023**, 
+- 🔬 **Published Research:** Educational Aspects of AI – *IJARIIE Journal* <br>
+- 🏆 **SIH 2024 Grand Finale Runner-Up:** Led a team to develop an **AI-based traffic management system** <br>
+- 🎙 **Conference Speaker:** IGEN Energathon, Aishwarya College <br>
+- 🚀 **MUN Leadership:** Director General - **Civitas Model UN 2024**, Organizing Committee Head - **JIET MUN 2023**, Under Secretary General - **LRIMUN Jodhpur 2023** <br>
 
 ---
 
 ### **🛠 Tech Stack & Expertise**  
-**💻 Languages:** Python, Java, C, MYSQL, HTML, CSS, JavaScript, PHP
-**⚙️ Frameworks & Tools:** OpenCV, Ultralytics, Streamlit, Langchain, Arduino, Raspberry Pi
-**🧠 AI/ML Specialties:** Reinforcement Learning, Recurrent Neural Network, Image & Video Processing  
+**💻 Languages:** Python, Java, C, MYSQL, HTML, CSS, JavaScript, PHP <br>
+**⚙️ Frameworks & Tools:** OpenCV, Ultralytics, Streamlit, Langchain, Arduino, Raspberry Pi <br>
+**🧠 AI/ML Specialties:** Reinforcement Learning, Recurrent Neural Network, Image & Video Processing <br>
 
 ---
 
