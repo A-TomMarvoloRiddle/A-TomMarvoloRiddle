@@ -11,23 +11,24 @@ I am a **passionate problem solver** who thrives at the intersection of **AI, so
 - 🔬 **Published Research:** Educational Aspects of AI – *IJARIIE Journal*  
 - 🏆 **SIH 2024 Runner-Up:** Led a team to develop an **AI-based traffic management system**  
 - 🎙 **Conference Speaker:** IGEN Energathon, Aishwarya College  
-- 🚀 **MUN Leadership:** Director General, **Civitas MUN 2024**  
+- 🚀 **MUN Leadership:** Director General - **Civitas Model UN 2024**, Organizing Committee Head - **JIET MUN 2023**, Under Secretary General - **LRIMUN Jodhpur 2023**, 
 
 ---
 
 ### **🛠 Tech Stack & Expertise**  
-**💻 Languages:** Python, Java, C, JavaScript, HTML, CSS, MySQL  
-**⚙️ Frameworks & Tools:** OpenCV, TensorFlow, Flask, Streamlit, React  
-**🧠 AI/ML Specialties:** Reinforcement Learning, RNNs, NLP, Image & Video Processing  
+**💻 Languages:** Python, Java, C, MYSQL, HTML, CSS, JavaScript
+**⚙️ Frameworks & Tools:** OpenCV, Ultralytics, Streamlit, Langchain, Arduino, Raspberry 
+**🧠 AI/ML Specialties:** Reinforcement Learning, Recurrent Neural Network, Image & Video Processing  
 
 ---
 
 ### **📌 Featured Projects**  
-🚦 [**AI-Based Traffic Management System**](#) - Real-time adaptive traffic signals using Reinforcement Learning & Computer Vision  
-📊 [**RAG & LLM App**](#) - Processes financial reports using structured & unstructured data  
-🛒 [**E-commerce Platform**](#) - Built with Python & MySQL  
-📄 [**Binary Search Tree Visualizer**](#) - Interactive Java-based BST simulation  
+🚦 [**AI-Based Traffic Management System**](#) - Real-time adaptive traffic signals using Reinforcement Learning, Computer Vision & Recurrent Neural Network
 🤖 [**PDF ChatBot**](#) - NLP-based chatbot using LangChain & Streamlit  
+🛒 [**E-commerce Platform**](#) - Built with Python & MySQL for CLI, upgarding to Full-Stack website using php
+📊 [**RAG & LLM App**](#) - Processes financial reports/tables from structured & unstructured data using custom trained LLM model & RAG pipeline
+📄 [**Binary Search Tree Visualizer**](#) - Interactive Java-based BST simulation  
+🗣️ [**Speech & Text Processing System**](#) - Python based speech-to-text, text-to-speech, and audio transcription with Hindi & English support in both male and female voices.
 
 ---
 
