@@ -25,7 +25,7 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 ### **📌 Featured Projects**  
 🚦 [**AI-Based Traffic Management System**](#) - Real-time adaptive traffic signals using **Reinforcement Learning, Computer Vision & RNN** <br>
 🤖 [**PDF ChatBot**](#) - NLP chatbot using **LangChain & Streamlit** <br>
-🛒 [**E-commerce Platform**](#) - Built with Python & MySQL for CLI, upgarding to Full-Stack website using PHP <br>
+🛒 [**Inventory Management**](#) - Built with Python & MySQL for CLI <br>
 📊 [**RAG & LLM App**](#) - Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** <br>
 📄 [**Binary Search Tree Visualizer**](#) - Java-based BST simulation in CLI <br>
 🗣️ [**Speech & Text Processing System**](#) - Converts **speech to text, text to speech & audio transcription** (Hindi & English, male & female voices) <br>
