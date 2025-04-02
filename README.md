@@ -1,6 +1,7 @@
-### **🚀 Apaar Mathur | AI & Software Developer | Tech Enthusiast**  
+# **Apaar Mathur**  
+###  **AI/ML & Software Developer | Tech Enthusiast**  
 
-🎓 **B.Tech CSE | JIET Jodhpur** | 🏆 **SIH 2024 Runner-Up** | 🎙 **Public Speaker**  
+🎓 **B.Tech CSE, JIET Jodhpur** | 🏆 **SIH 2024 Runner-Up** | 🎙 **Public Speaker**  
 👨‍💻 **AI | Machine Learning | Software Development** | 📊 **Research & Development**  
 
 ---  
