@@ -17,17 +17,20 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 ---
 
 ### **🛠 Tech Stack & Expertise**  
-**💻 Languages:** Python, Java, C, MYSQL, HTML, CSS, JavaScript, PHP <br>
-**⚙️ Frameworks & Tools:** OpenCV, Ultralytics, Streamlit, Langchain, Arduino, Raspberry Pi <br>
-**🧠 AI/ML Specialties:** Reinforcement Learning, Recurrent Neural Network, Image & Video Processing <br>
+**💻 Languages:** <br>
+      Python | Java | C | MYSQL | HTML/CSS | JavaScript | PHP <br>
+**⚙️ Frameworks & Tools:** <br>
+      OpenCV | Ultralytics | Langchain | Streamlit | Arduino | Raspberry Pi | Git & GitHub <br>
+**🧠 AI/ML Specialties:** <br>
+      Reinforcement Learning | Recurrent Neural Network | Computer Vision | STT & TTS | Prompt Engineering <br>
 
 ---
 
 ### **📌 Featured Projects**  
-🚦 [**AI-Based Traffic Management System**](#) - Real-time adaptive traffic signals using **Reinforcement Learning, Computer Vision & RNN** <br>
+🚦 [**AI-Based Traffic Management System**](https://github.com/A-TomMarvoloRiddle/Fluxion) - Real-time adaptive traffic signals using **Reinforcement Learning, Computer Vision & RNN** <br>
 🤖 [**PDF ChatBot**](#) - NLP chatbot using **LangChain & Streamlit** <br>
-🛒 [**Inventory Management**](#) - Built with Python & MySQL for CLI <br>
-📊 [**RAG & LLM App**](#) - Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** <br>
+🛒 [**Inventory Management**](#) - Built with **Python & MySQL for CLI**  and **HTML, CSS, JS, PHP & MySQL for website**<br>
+📊 [**RAG & LLM App**](https://github.com/A-TomMarvoloRiddle/RAG-LLM-using-AI-Pipeline-with-streamlit-interface) - Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** <br>
 📄 [**Binary Search Tree Visualizer**](#) - Java-based BST simulation in CLI <br>
 🗣️ [**Speech & Text Processing System**](#) - Converts **speech to text, text to speech & audio transcription** (Hindi & English, male & female voices) <br>
 
