@@ -22,7 +22,7 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 ### **⚙️ Frameworks & Tools:** <br>
 &emsp;&nbsp;&nbsp; OpenCV | Ultralytics | Langchain | Streamlit | Arduino | Raspberry Pi | Git & GitHub <br>
 ### **🧠 AI/ML Specialties:** <br>
-&emsp;&nbsp;&nbsp; Reinforcement Learning | Recurrent Neural Network | Computer Vision | STT & TTS | Prompt Engineering <br>
+&emsp;&nbsp;&nbsp; Reinforcement Learning | Recurrent Neural Network | Computer Vision | NLP | LLMs | STT & TTS | Prompt Engineering <br>
 
 ---
 
@@ -30,11 +30,11 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 🚦 [**AI-Based Traffic Management System**](https://github.com/A-TomMarvoloRiddle/Fluxion) <br>
 &emsp;&nbsp;&nbsp;Real-time adaptive traffic signals using **Reinforcement Learning, Computer Vision & RNN** <br>
 
-🤖 [**PDF ChatBot**](https://github.com/A-TomMarvoloRiddle) <br>
+🤖 [**PDF ChatBot**](https://github.com/A-TomMarvoloRiddle/Chat-with-PDF) <br>
 &emsp;&nbsp;&nbsp;NLP chatbot using **LangChain & Streamlit** <br>
 
-🛒 [**Inventory Management**](https://github.com/A-TomMarvoloRiddle) <br>
-&emsp;&nbsp;&nbsp;Built with **Python & MySQL for CLI**  and **HTML, CSS, JS, PHP & MySQL for website**<br>
+🛒 [**Inventory Management**](https://github.com/A-TomMarvoloRiddle/Catalog-Inventory-Management-on-Website) <br>
+&emsp;&nbsp;&nbsp;Built with **Python & MySQL for [CLI](https://github.com/A-TomMarvoloRiddle/Inventory-Management-on-CLI)**  and **HTML, CSS, JS, PHP & MySQL for [Website](https://github.com/A-TomMarvoloRiddle/Catalog-Inventory-Management-on-Website)**<br>
 
 📊 [**RAG & LLM App**](https://github.com/A-TomMarvoloRiddle/RAG-LLM-using-AI-Pipeline-with-streamlit-interface) <br>
 &emsp;&nbsp;&nbsp;Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** <br>
