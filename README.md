@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Apaar Mathur </h1>
 <h3 align="center";>AI/ML Software Developer</h3>
 <p align="center"> 
-  <a href="www.linkedin.com/in/apaarmat12"><alt text="Apaar's LinkedIn"/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/apaarmat12"><alt text="Apaar's LinkedIn"/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
   <a href="mailto:ap1203m@gmail.com"><alt text="Apaar's Email id"/><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
   <a href="https://www.instagram.com/apaar_mathur"><alt text="Apaar's Instagram"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="http://discordapp.com/users/apaar_mathur0447"><alt text="Apaar's Discord"/><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
