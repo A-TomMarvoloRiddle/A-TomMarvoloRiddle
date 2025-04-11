@@ -1,5 +1,8 @@
 # **Apaar Mathur**  
 ###  **AI/ML & Software Developer | Tech Enthusiast**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/apaarmat12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ap1203m@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apaar_mathur/)
 
 🎓 **B.Tech CSE, JIET Jodhpur** | 🏆 **SIH 2024 Runner-Up** | 🎙 **Public Speaker**  
 👨‍💻 **AI | Machine Learning | Software Development** | 📊 **Research & Development**  
@@ -18,11 +21,31 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 
 ## **🛠 Tech Stack & Expertise**  
 ### **💻 Languages:** <br>
-&emsp;&nbsp;&nbsp; Python | Java | C | MYSQL | HTML/CSS | JavaScript | PHP <br>
+&emsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### **⚙️ Frameworks & Tools:** <br>
-&emsp;&nbsp;&nbsp; OpenCV | Ultralytics | Langchain | Streamlit | Arduino | Raspberry Pi | Git & GitHub <br>
+&emsp;&nbsp;&nbsp; ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-FF6F00?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
 ### **🧠 AI/ML Specialties:** <br>
-&emsp;&nbsp;&nbsp; Reinforcement Learning | Recurrent Neural Network | Computer Vision | NLP | LLMs | STT & TTS | Prompt Engineering <br>
+&emsp;&nbsp;&nbsp; ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge&logo=reinforcement-learning&logoColor=white)
+![Recurrent Neural Network](https://img.shields.io/badge/Recurrent%20Neural%20Network-8E44AD?style=for-the-badge&logo=recurrent-neural-network&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=computer-vision&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=nlp&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=llms&logoColor=white)
+![STT & TTS](https://img.shields.io/badge/STT%20%26%20TTS-FF6F00?style=for-the-badge&logo=stt-tts&logoColor=white) <br>
+&emsp;&nbsp;&nbsp; ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=prompt-engineering&logoColor=white)
 
 ---
 
@@ -46,7 +69,3 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 &emsp;&nbsp;&nbsp;Converts **speech to text, text to speech & audio transcription** (Hindi & English, male & female voices) <br>
 
 ---
-
-## **📬 Let’s Connect!**  
-🔗 [**LinkedIn**](www.linkedin.com/in/apaarmat12) <br>
-📧 [**Email**](mailto:ap1203m@gmail.com) <br>
