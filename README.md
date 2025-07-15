@@ -19,7 +19,7 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 - 🔬 **Published Research:** Educational Aspects of AI – *IJARIIE Journal* <br>
 - 🏆 **SIH 2024 Grand Finale Runner-Up:** Led a team to develop an **AI-based traffic management system** <br>
 - 🎙 **Conference Speaker:** IGEN Energathon, Aishwarya College <br>
-- 🚀 **MUN Leadership:** Director General - **Civitas Model UN 2024**, Organizing Committee Head - **JIET MUN 2023**, Under Secretary General - **LRIMUN Jodhpur 2023** <br>
+- 🚀 **MUN Leadership:** Director General - **Civitas Model UN**, Organizing Committee Head - **JIET MUN 2023**, Under Secretary General - **LRIMUN Jodhpur 2023** <br>
 
 ---
 
