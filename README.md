@@ -70,23 +70,3 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 
 ## **🏆 GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=A-TomMarvoloRiddle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## **📌 Featured Projects**  
-🚦 [**AI-Based Traffic Management System**](https://github.com/A-TomMarvoloRiddle/Fluxion) <br>
-&emsp;&nbsp;&nbsp;Real-time adaptive traffic signals using **Reinforcement Learning, Computer Vision & RNN**. Presented in Grand Finale SIH 2024. <br>
-
-🤖 [**PDF ChatBot**](https://github.com/A-TomMarvoloRiddle/Chat-with-PDF) <br>
-&emsp;&nbsp;&nbsp;NLP chatbot using **LangChain & Streamlit** <br>
-
-🛒 [**Inventory Management**](https://github.com/A-TomMarvoloRiddle/Catalog-Inventory-Management-on-Website) <br>
-&emsp;&nbsp;&nbsp;Built with **Python & MySQL for [CLI](https://github.com/A-TomMarvoloRiddle/Inventory-Management-on-CLI)**  and **HTML, CSS, JS, PHP & MySQL for [Website](https://github.com/A-TomMarvoloRiddle/Catalog-Inventory-Management-on-Website)**<br>
-
-📊 [**RAG & LLM App**](https://github.com/A-TomMarvoloRiddle/RAG-LLM-using-AI-Pipeline-with-streamlit-interface) <br>
-&emsp;&nbsp;&nbsp;Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** <br>
-
-🗣️ [**Speech & Text Processing System**](https://github.com/A-TomMarvoloRiddle/STT-TTS-Audio-Transcription) <br>
-&emsp;&nbsp;&nbsp;Converts **speech to text, text to speech & audio transcription** (Hindi & English, male & female voices) <br>
-
----
