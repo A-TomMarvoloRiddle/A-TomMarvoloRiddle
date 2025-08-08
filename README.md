@@ -69,4 +69,4 @@ I am a **passionate problem solver** specializing in **AI, Machine Learning, and
 ![](https://nirzak-streak-stats.vercel.app/?user=A-TomMarvoloRiddle&theme=dark&hide_border=false)
 
 ## **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=A-TomMarvoloRiddle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=A-TomMarvoloRiddle&theme=radical&no-frame=false&no-bg=false&margin-w=4)
